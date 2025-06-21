@@ -1,0 +1,9 @@
+
+ipykernel
+pandas
+scikit-learn==1.2.2
+numpy
+matplotlib
+streamlit
+imbalanced-learn==0.11.0
+ 
